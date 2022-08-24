@@ -1,1 +1,1 @@
-
+I have made a Frontend project named Spotify Web Application using HTML ,CSS, JavaScript and React Js .I have also added functionality of Rating of songs,Pop-Up, Buttons with hyperlinking,Form Validations. 
